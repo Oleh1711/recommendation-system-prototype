@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+
+data/cache/
+data/2019-Nov.csv
+data/processed/*.parquet
